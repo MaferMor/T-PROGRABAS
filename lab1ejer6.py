@@ -12,4 +12,4 @@ def inversa(cadena):
 
 def inversa(cadena):
     return cadena[::-1]
-print (inversa("estoy robando"))
+print (inversa("123456"))

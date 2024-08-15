@@ -18,7 +18,9 @@ def es_vocal(caracter):
         return True 
     else:
         return False 
+print (es_vocal("b"))
     
 def es_vocal(caracter):
     return caracter.lower() in "aeiou"
+print (es_vocal("a"))
 

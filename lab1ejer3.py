@@ -12,5 +12,5 @@ def longitud(elemento):
     for _ in elemento:
         contador += 1
     return contador 
-
+print(longitud([1, 2, 3, 4, 5]))
 

@@ -13,7 +13,5 @@ def max(a, b):
         return a 
     else:
         return b
-    
 valor = max(2,10)
-
 print('El numero mas grande es ',valor)

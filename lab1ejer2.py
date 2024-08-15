@@ -16,7 +16,5 @@ def max_de_tres(a, b, c):
         return b
     else:
         return c 
-
-valor = max_de_tres(10, 2, 3)
-
+valor = max_de_tres(1, 2, 3)
 print('El número mayor es: ', valor)
