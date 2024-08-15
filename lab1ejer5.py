@@ -10,6 +10,10 @@ def multip(lista):
         resultado *= numero
     return resultado
 
+
+
+
+
 print(suma([1, 2, 3, 4]))
 
 print(multip([1, 2, 3, 4]))
