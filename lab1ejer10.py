@@ -13,4 +13,4 @@ def histograma(lista):
 def histograma(lista):
      for valor in lista:
         print("*" * valor)
-histograma([4, 9, 7])
+histograma([6, 9, 7])
