@@ -22,4 +22,3 @@ def es_vocal(caracter):
 def es_vocal(caracter):
     return caracter.lower() in "aeiou"
 
-
